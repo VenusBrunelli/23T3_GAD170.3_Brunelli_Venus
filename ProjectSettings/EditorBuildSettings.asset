@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Titlescreen.unity
+    guid: ef73e1ebb860f8d4399fd1852cdf94a2
+  - enabled: 1
     path: Assets/Scenes/Game(Lumni)GAD170.3.unity
     guid: 00b266a94b5deee42a1793795591896f
   m_configObjects: {}
