@@ -1936,7 +1936,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 7881bf0c267ebb34382100d5962a976e, type: 2}
+  - {fileID: 2100000, guid: 7d7176a6fb0516f46a6977b97ed9699e, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -4127,7 +4127,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 7029bc26b3bcfbf4e9e5a79aee8f9d32, type: 2}
+  - {fileID: 2100000, guid: 7881bf0c267ebb34382100d5962a976e, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -4633,7 +4633,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 7d7176a6fb0516f46a6977b97ed9699e, type: 2}
+  - {fileID: 2100000, guid: 7029bc26b3bcfbf4e9e5a79aee8f9d32, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -8582,6 +8582,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -6914716460632612959, guid: 0f0f3923cb67eba4ea2388828755fb2e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f8b6b6a7c10bf884684cda1850ce99c8, type: 2}
     - target: {fileID: -2313294597914423679, guid: 0f0f3923cb67eba4ea2388828755fb2e, type: 3}
       propertyPath: m_LocalPosition.x
       value: -2.39
@@ -8622,6 +8626,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: LumniProject.Venus_GAD174 (With a lot of stuff)
       objectReference: {fileID: 0}
+    - target: {fileID: 6326833818714734321, guid: 0f0f3923cb67eba4ea2388828755fb2e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 117af4786fc85e74386d3eeb7078e4ca, type: 2}
     - target: {fileID: 6818861755215632217, guid: 0f0f3923cb67eba4ea2388828755fb2e, type: 3}
       propertyPath: m_LocalPosition.x
       value: -3.8
